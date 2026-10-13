@@ -19,3 +19,6 @@ The following command displays the current repository status:
 
 ```bash
 git status
+## GitHub Synchronization
+
+This section was added directly on GitHub to demonstrate the difference between git fetch and git pull.
